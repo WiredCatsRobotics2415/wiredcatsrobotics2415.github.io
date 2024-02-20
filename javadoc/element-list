@@ -1,5 +1,6 @@
 frc.commands
 frc.generated
 frc.robot
+frc.sim
 frc.subsystems
 frc.utils
